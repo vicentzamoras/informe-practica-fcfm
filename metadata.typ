@@ -8,36 +8,36 @@
 
   // El diccionario con información de la persona que escribe el documento
   autoria: (
-    nombre: "Nombre Nombre Apellido Apellido",
+    nombre: "Vicente Alonso Zamora Sepúlveda",
     pronombre: pronombre.elle,
-    correo: "estudiante@example.com",
-    telefono: "+56 9 8765 4321",
+    correo: "vicente.zamora@ug.uchile.cl",
+    telefono: "+56 9 8129 1780",
   ),
 
   // El diccionario con información de la persona que realizó la supervisión
   supervision: (
-    nombre: "Nombre Apellido Apellido",
+    nombre: "Ivonne Jiménez",
     pronombre: pronombre.ella,
-    correo: "supervision@empresa.com",
-    telefono: "+56 9 8765 4321",
+    correo: "ijimenez@metro.cl",
+    telefono: "+56 2 2937 8739",
   ),
 
   // Información sobre la práctica
   practica: (
     // Número de la práctica, 1 o 2
-    numero: 1,
+    numero: 2,
 
     // Código de la práctica, CC4901 para la práctica I, CC5901 para la práctica II
-    codigo: "CC4901",
+    codigo: "CC5901",
 
     // Nombre de la carrera
     carrera: "Ingeniería Civil en Computación",
 
     // Nombre de la empresa
-    empresa: "EMPRE S.A.",
+    empresa: "Metro S.A.",
 
     // Período en que se realizó la práctica
-    periodo: "Enero - Febrero 2025",
+    periodo: "Enero - Febrero 2026",
   ),
 
   // Un string para una fecha, o la fecha actual si no se especifica

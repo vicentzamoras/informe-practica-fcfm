@@ -73,7 +73,7 @@ Un _resumen conciso_ (no más de un párrafo) de la meta principal del trabajo, 
 
 El objetivo debería ser específico, medible, alcanzable, relevante al problema, y acotado en tiempo.
 
-('Hacer la práctica' no es una repuesta válida. #emoji.face.sad)
+('Hacer la práctica' no es una repuesta válida.)
 ]
 
 #let guia_objetivos_especificos = [
